@@ -1,0 +1,38 @@
+.conteiner {
+width: 100vw;
+height: 100vh;
+background: #18494a;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+.caixa {
+width: 400px;
+padding: 40px;
+border-radius: 30px;
+background: #5caa91;
+text-align: center;
+box-shadow: rgba(0, 0, 0, 0.544) 0px 0px 40px;
+color: aliceblue;
+margin: auto;
+}
+
+body {
+    margin: 0px;
+    font: normal 15pt Arial;
+}
+input {
+    border: 0px;
+    border-radius: 10px;
+    padding: 5px;
+    background: rgba(0, 0, 0, 0.253);
+}
+#botao {
+    color: aliceblue;
+}
+h1 {
+    color:rgb(3, 49, 31);
+}
+
